@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: hcardenas-productor
+
+server:
+  port: 8071
